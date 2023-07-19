@@ -1,0 +1,547 @@
+2023-01-13 14:26:33,863 : INFO : test_e2e : shopitems:
+2023-01-13 14:26:33,900 : INFO : test_e2e : cart titles:
+2023-01-13 14:26:39,198 : INFO : test_e2e : selected country is
+2023-01-13 14:26:39,423 : INFO : test_e2e : The message is:
+2023-01-13 14:30:27,574 : INFO : test_e2e : shopitems:
+2023-01-13 14:30:27,586 : INFO : test_e2e : cart titles:
+2023-01-13 14:30:32,899 : INFO : test_e2e : selected country is
+2023-01-13 14:30:33,080 : INFO : test_e2e : The message is:
+2023-01-13 14:37:15,229 : INFO : test_e2e : shopitems:
+2023-01-13 14:37:15,244 : INFO : test_e2e : cart titles:
+2023-01-13 14:37:20,810 : INFO : test_e2e : selected country is
+2023-01-13 14:37:20,975 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 14:55:12,167 : INFO : test_e2e : shopitems:
+2023-01-13 14:55:12,183 : INFO : test_e2e : cart titles:
+2023-01-13 14:55:18,043 : INFO : test_e2e : selected country is
+2023-01-13 14:55:18,686 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 15:22:34,533 : INFO : test_e2e : getting all the carts
+2023-01-13 15:22:34,545 : INFO : test_e2e : cart titles
+2023-01-13 15:24:38,930 : INFO : test_e2e : getting all the carts
+2023-01-13 15:24:38,943 : INFO : test_e2e : cart titles
+2023-01-13 15:24:40,971 : INFO : test_e2e : products are:
+2023-01-13 15:24:46,299 : INFO : test_e2e : selected country is
+2023-01-13 15:24:46,752 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 15:26:18,805 : INFO : test_e2e : getting all the carts
+2023-01-13 15:26:18,840 : INFO : test_e2e : cart titles
+2023-01-13 15:26:18,951 : INFO : test_e2e : products:Blackberry
+2023-01-13 15:26:24,203 : INFO : test_e2e : selected country is
+2023-01-13 15:26:24,340 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 15:28:07,486 : INFO : test_e2e : getting all the carts
+2023-01-13 15:28:07,498 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="30dd1cbefa35a8d87ed24217b50c7f2d", element="a82fdc3a-659e-4fa6-b514-20e27c44b480")>, <selenium.webdriver.remote.webelement.WebElement (session="30dd1cbefa35a8d87ed24217b50c7f2d", element="205096c5-34f2-4d9c-9f64-c02a766e3f14")>, <selenium.webdriver.remote.webelement.WebElement (session="30dd1cbefa35a8d87ed24217b50c7f2d", element="3b44b9f3-2307-426d-823e-65ff01444350")>, <selenium.webdriver.remote.webelement.WebElement (session="30dd1cbefa35a8d87ed24217b50c7f2d", element="a99cd637-6158-423e-b9f2-d22c3aff35a0")>]
+2023-01-13 15:28:07,615 : INFO : test_e2e : products:Blackberry
+2023-01-13 15:28:12,909 : INFO : test_e2e : selected country is
+2023-01-13 15:28:13,114 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 15:29:59,620 : INFO : test_e2e : getting all the carts
+2023-01-13 15:29:59,632 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="f4b1e6eba22327fed4dbea6dca7a473c", element="9061245a-3186-4479-866d-f484f0169509")>, <selenium.webdriver.remote.webelement.WebElement (session="f4b1e6eba22327fed4dbea6dca7a473c", element="3a9aad96-f6d5-4c37-8856-41afb06a5fb6")>, <selenium.webdriver.remote.webelement.WebElement (session="f4b1e6eba22327fed4dbea6dca7a473c", element="53925a28-2606-4254-a94c-1ae3c10d8797")>, <selenium.webdriver.remote.webelement.WebElement (session="f4b1e6eba22327fed4dbea6dca7a473c", element="08bc3b81-71b3-4b31-8903-9cb18d82c68e")>]
+2023-01-13 15:29:59,822 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="f4b1e6eba22327fed4dbea6dca7a473c", element="08bc3b81-71b3-4b31-8903-9cb18d82c68e")>
+2023-01-13 15:29:59,844 : INFO : test_e2e : products:Blackberry
+2023-01-13 15:30:05,125 : INFO : test_e2e : selected country is
+2023-01-13 15:30:05,310 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 16:44:20,392 : INFO : test_e2e : getting all the carts
+2023-01-13 16:44:21,506 : INFO : test_e2e : products:Blackberry
+2023-01-13 16:44:21,612 : INFO : test_e2e : entering country:
+2023-01-13 16:44:26,947 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 16:58:53,092 : INFO : test_e2e : getting all the carts
+2023-01-13 16:58:55,611 : INFO : test_e2e : products:Blackberry
+2023-01-13 16:58:55,717 : INFO : test_e2e : entering country:
+2023-01-13 16:59:01,190 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 17:06:54,148 : INFO : test_e2e : getting all the carts
+2023-01-13 17:06:54,904 : INFO : test_e2e : Cart_titles are
+2023-01-13 17:06:55,028 : INFO : test_e2e : products:Blackberry
+2023-01-13 17:06:55,138 : INFO : test_e2e : entering country:
+2023-01-13 17:07:00,487 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 17:10:41,754 : INFO : test_home : name issan1
+2023-01-13 17:10:42,462 : INFO : test_home : name isalwar
+2023-01-13 17:10:42,462 : INFO : test_home : name isalwar
+2023-01-13 17:13:55,877 : INFO : test_home : name is:san1
+2023-01-13 17:13:56,012 : INFO : test_home : mail :1gmail.com
+2023-01-13 17:13:56,483 : INFO : test_home : name is:alwar
+2023-01-13 17:13:56,483 : INFO : test_home : name is:alwar
+2023-01-13 17:13:56,611 : INFO : test_home : mail :ymail.com
+2023-01-13 17:13:56,611 : INFO : test_home : mail :ymail.com
+2023-01-13 17:17:10,878 : INFO : test_home : name is:san1
+2023-01-13 17:17:11,070 : INFO : test_home : mail :1gmail.com
+2023-01-13 17:17:11,648 : INFO : test_home : name is:alwar
+2023-01-13 17:17:11,648 : INFO : test_home : name is:alwar
+2023-01-13 17:17:11,800 : INFO : test_home : mail :ymail.com
+2023-01-13 17:17:11,800 : INFO : test_home : mail :ymail.com
+2023-01-13 17:17:28,698 : INFO : test_home : name is:san1
+2023-01-13 17:17:28,698 : INFO : test_home : name is:san1
+2023-01-13 17:17:28,698 : INFO : test_home : name is:san1
+2023-01-13 17:17:28,855 : INFO : test_home : mail :1gmail.com
+2023-01-13 17:17:28,855 : INFO : test_home : mail :1gmail.com
+2023-01-13 17:17:28,855 : INFO : test_home : mail :1gmail.com
+2023-01-13 17:17:29,306 : INFO : test_home : name is:alwar
+2023-01-13 17:17:29,306 : INFO : test_home : name is:alwar
+2023-01-13 17:17:29,306 : INFO : test_home : name is:alwar
+2023-01-13 17:17:29,306 : INFO : test_home : name is:alwar
+2023-01-13 17:17:29,416 : INFO : test_home : mail :ymail.com
+2023-01-13 17:17:29,416 : INFO : test_home : mail :ymail.com
+2023-01-13 17:17:29,416 : INFO : test_home : mail :ymail.com
+2023-01-13 17:17:29,416 : INFO : test_home : mail :ymail.com
+2023-01-13 17:17:36,517 : INFO : test_e2e : getting all the carts
+2023-01-13 17:17:37,429 : INFO : test_e2e : Cart_titles are
+2023-01-13 17:17:37,555 : INFO : test_e2e : products:Blackberry
+2023-01-13 17:17:37,660 : INFO : test_e2e : entering country:
+2023-01-13 17:17:43,093 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 17:39:03,232 : INFO : test_home : name is:san1
+2023-01-13 17:39:03,418 : INFO : test_home : mail :1gmail.com
+2023-01-13 17:39:05,036 : INFO : test_home : name is:alwar
+2023-01-13 17:39:05,036 : INFO : test_home : name is:alwar
+2023-01-13 17:39:05,166 : INFO : test_home : mail :ymail.com
+2023-01-13 17:39:05,166 : INFO : test_home : mail :ymail.com
+2023-01-13 17:39:11,422 : INFO : test_e2e : click shop items
+2023-01-13 17:39:11,435 : INFO : test_e2e : Cart_titles are get as products
+2023-01-13 17:39:11,542 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-13 17:39:11,651 : INFO : test_e2e : final checkout
+2023-01-13 17:39:11,715 : INFO : test_e2e : entering country as IND
+2023-01-13 17:39:16,958 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 17:41:41,411 : INFO : test_home : name is:san1
+2023-01-13 17:41:41,570 : INFO : test_home : mail :1gmail.com
+2023-01-13 17:41:42,143 : INFO : test_home : name is:alwar
+2023-01-13 17:41:42,143 : INFO : test_home : name is:alwar
+2023-01-13 17:41:42,299 : INFO : test_home : mail :ymail.com
+2023-01-13 17:41:42,299 : INFO : test_home : mail :ymail.com
+2023-01-13 17:41:49,511 : INFO : test_e2e : click shop items
+2023-01-13 17:41:49,522 : INFO : test_e2e : Cart_titles are get as products
+2023-01-13 17:41:49,646 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-13 17:41:49,744 : INFO : test_e2e : final checkout
+2023-01-13 17:41:49,800 : INFO : test_e2e : entering country as IND
+2023-01-13 17:41:55,012 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 18:10:05,872 : INFO : test_home : name is:san1
+2023-01-13 18:10:06,015 : INFO : test_home : mail :1gmail.com
+2023-01-13 18:10:07,145 : INFO : test_home : name is:alwar
+2023-01-13 18:10:07,145 : INFO : test_home : name is:alwar
+2023-01-13 18:10:07,276 : INFO : test_home : mail :ymail.com
+2023-01-13 18:10:07,276 : INFO : test_home : mail :ymail.com
+2023-01-13 18:10:25,107 : INFO : test_home : name is:san1
+2023-01-13 18:10:25,107 : INFO : test_home : name is:san1
+2023-01-13 18:10:25,107 : INFO : test_home : name is:san1
+2023-01-13 18:10:25,257 : INFO : test_home : mail :1gmail.com
+2023-01-13 18:10:25,257 : INFO : test_home : mail :1gmail.com
+2023-01-13 18:10:25,257 : INFO : test_home : mail :1gmail.com
+2023-01-13 18:10:25,865 : INFO : test_home : name is:alwar
+2023-01-13 18:10:25,865 : INFO : test_home : name is:alwar
+2023-01-13 18:10:25,865 : INFO : test_home : name is:alwar
+2023-01-13 18:10:25,865 : INFO : test_home : name is:alwar
+2023-01-13 18:10:25,994 : INFO : test_home : mail :ymail.com
+2023-01-13 18:10:25,994 : INFO : test_home : mail :ymail.com
+2023-01-13 18:10:25,994 : INFO : test_home : mail :ymail.com
+2023-01-13 18:10:25,994 : INFO : test_home : mail :ymail.com
+2023-01-13 18:10:33,309 : INFO : test_e2e : click shop items
+2023-01-13 18:10:33,321 : INFO : test_e2e : Cart_titles are get as products
+2023-01-13 18:10:33,443 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-13 18:10:33,697 : INFO : test_e2e : final checkout
+2023-01-13 18:10:33,761 : INFO : test_e2e : entering country as IND
+2023-01-13 18:10:39,129 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 19:13:21,776 : INFO : test_home : name is:san1
+2023-01-13 19:13:22,127 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:13:23,633 : INFO : test_home : name is:alwar
+2023-01-13 19:13:23,633 : INFO : test_home : name is:alwar
+2023-01-13 19:13:23,770 : INFO : test_home : mail :ymail.com
+2023-01-13 19:13:23,770 : INFO : test_home : mail :ymail.com
+2023-01-13 19:13:42,239 : INFO : test_home : name is:san1
+2023-01-13 19:13:42,239 : INFO : test_home : name is:san1
+2023-01-13 19:13:42,239 : INFO : test_home : name is:san1
+2023-01-13 19:13:42,380 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:13:42,380 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:13:42,380 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:13:43,060 : INFO : test_home : name is:alwar
+2023-01-13 19:13:43,060 : INFO : test_home : name is:alwar
+2023-01-13 19:13:43,060 : INFO : test_home : name is:alwar
+2023-01-13 19:13:43,060 : INFO : test_home : name is:alwar
+2023-01-13 19:13:43,184 : INFO : test_home : mail :ymail.com
+2023-01-13 19:13:43,184 : INFO : test_home : mail :ymail.com
+2023-01-13 19:13:43,184 : INFO : test_home : mail :ymail.com
+2023-01-13 19:13:43,184 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:02,320 : INFO : test_home : name is:san1
+2023-01-13 19:17:02,467 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:17:03,059 : INFO : test_home : name is:alwar
+2023-01-13 19:17:03,059 : INFO : test_home : name is:alwar
+2023-01-13 19:17:03,220 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:03,220 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:08,207 : INFO : test_e2e : click shop items
+2023-01-13 19:17:08,225 : INFO : test_e2e : Cart_titles are get as products
+2023-01-13 19:17:08,340 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-13 19:17:08,524 : INFO : test_e2e : final checkout
+2023-01-13 19:17:08,612 : INFO : test_e2e : entering country as IND
+2023-01-13 19:17:13,972 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 19:17:25,707 : INFO : test_home : name is:san1
+2023-01-13 19:17:25,842 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:17:26,369 : INFO : test_home : name is:alwar
+2023-01-13 19:17:26,369 : INFO : test_home : name is:alwar
+2023-01-13 19:17:26,506 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:26,506 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:43,925 : INFO : test_home : name is:san1
+2023-01-13 19:17:43,925 : INFO : test_home : name is:san1
+2023-01-13 19:17:43,925 : INFO : test_home : name is:san1
+2023-01-13 19:17:44,074 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:17:44,074 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:17:44,074 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:17:44,550 : INFO : test_home : name is:alwar
+2023-01-13 19:17:44,550 : INFO : test_home : name is:alwar
+2023-01-13 19:17:44,550 : INFO : test_home : name is:alwar
+2023-01-13 19:17:44,550 : INFO : test_home : name is:alwar
+2023-01-13 19:17:44,671 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:44,671 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:44,671 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:44,671 : INFO : test_home : mail :ymail.com
+2023-01-13 19:17:50,021 : INFO : test_e2e : click shop items
+2023-01-13 19:17:50,038 : INFO : test_e2e : Cart_titles are get as products
+2023-01-13 19:17:50,157 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-13 19:17:50,261 : INFO : test_e2e : final checkout
+2023-01-13 19:17:50,320 : INFO : test_e2e : entering country as IND
+2023-01-13 19:17:55,642 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-13 19:19:54,721 : INFO : test_home : name is:san1
+2023-01-13 19:19:54,875 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:19:55,619 : INFO : test_home : name is:alwar
+2023-01-13 19:19:55,619 : INFO : test_home : name is:alwar
+2023-01-13 19:19:55,773 : INFO : test_home : mail :ymail.com
+2023-01-13 19:19:55,773 : INFO : test_home : mail :ymail.com
+2023-01-13 19:20:15,916 : INFO : test_home : name is:san1
+2023-01-13 19:20:15,916 : INFO : test_home : name is:san1
+2023-01-13 19:20:15,916 : INFO : test_home : name is:san1
+2023-01-13 19:20:16,078 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:20:16,078 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:20:16,078 : INFO : test_home : mail :1gmail.com
+2023-01-13 19:20:16,655 : INFO : test_home : name is:alwar
+2023-01-13 19:20:16,655 : INFO : test_home : name is:alwar
+2023-01-13 19:20:16,655 : INFO : test_home : name is:alwar
+2023-01-13 19:20:16,655 : INFO : test_home : name is:alwar
+2023-01-13 19:20:16,795 : INFO : test_home : mail :ymail.com
+2023-01-13 19:20:16,795 : INFO : test_home : mail :ymail.com
+2023-01-13 19:20:16,795 : INFO : test_home : mail :ymail.com
+2023-01-13 19:20:16,795 : INFO : test_home : mail :ymail.com
+2023-01-13 19:20:23,820 : INFO : test_e2e : click shop items
+2023-01-13 19:20:23,831 : INFO : test_e2e : Cart_titles are get as products
+2023-01-13 19:20:26,293 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-13 19:20:26,528 : INFO : test_e2e : final checkout
+2023-01-13 19:20:26,599 : INFO : test_e2e : entering country as IND
+2023-01-13 19:20:32,019 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 16:42:42,393 : INFO : test_home : name is:san1
+2023-01-19 16:42:43,830 : INFO : test_home : mail :1gmail.com
+2023-01-19 16:42:45,727 : INFO : test_home : name is:alwar
+2023-01-19 16:42:45,727 : INFO : test_home : name is:alwar
+2023-01-19 16:42:45,762 : INFO : test_home : mail :ymail.com
+2023-01-19 16:42:45,762 : INFO : test_home : mail :ymail.com
+2023-01-19 16:43:06,706 : INFO : test_home : name is:san1
+2023-01-19 16:43:06,706 : INFO : test_home : name is:san1
+2023-01-19 16:43:06,706 : INFO : test_home : name is:san1
+2023-01-19 16:43:06,760 : INFO : test_home : mail :1gmail.com
+2023-01-19 16:43:06,760 : INFO : test_home : mail :1gmail.com
+2023-01-19 16:43:06,760 : INFO : test_home : mail :1gmail.com
+2023-01-19 16:43:08,340 : INFO : test_home : name is:alwar
+2023-01-19 16:43:08,340 : INFO : test_home : name is:alwar
+2023-01-19 16:43:08,340 : INFO : test_home : name is:alwar
+2023-01-19 16:43:08,340 : INFO : test_home : name is:alwar
+2023-01-19 16:43:08,385 : INFO : test_home : mail :ymail.com
+2023-01-19 16:43:08,385 : INFO : test_home : mail :ymail.com
+2023-01-19 16:43:08,385 : INFO : test_home : mail :ymail.com
+2023-01-19 16:43:08,385 : INFO : test_home : mail :ymail.com
+2023-01-19 16:43:22,048 : INFO : test_e2e : click shop items
+2023-01-19 16:43:22,374 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 16:43:24,069 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 16:43:25,540 : INFO : test_e2e : final checkout
+2023-01-19 16:43:25,856 : INFO : test_e2e : entering country as IND
+2023-01-19 16:43:31,815 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 17:02:07,492 : INFO : test_home : name is:san1
+2023-01-19 17:02:09,070 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:02:10,379 : INFO : test_home : name is:alwar
+2023-01-19 17:02:10,379 : INFO : test_home : name is:alwar
+2023-01-19 17:02:10,514 : INFO : test_home : mail :ymail.com
+2023-01-19 17:02:10,514 : INFO : test_home : mail :ymail.com
+2023-01-19 17:02:44,093 : INFO : test_e2e : click shop items
+2023-01-19 17:02:44,108 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 17:02:44,234 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 17:02:46,054 : INFO : test_e2e : final checkout
+2023-01-19 17:02:46,115 : INFO : test_e2e : entering country as IND
+2023-01-19 17:02:55,258 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 17:06:30,745 : INFO : test_home : name is:san1
+2023-01-19 17:06:31,674 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:06:34,937 : INFO : test_home : name is:alwar
+2023-01-19 17:06:34,937 : INFO : test_home : name is:alwar
+2023-01-19 17:06:34,979 : INFO : test_home : mail :ymail.com
+2023-01-19 17:06:34,979 : INFO : test_home : mail :ymail.com
+2023-01-19 17:06:55,626 : INFO : test_home : name is:san1
+2023-01-19 17:06:55,626 : INFO : test_home : name is:san1
+2023-01-19 17:06:55,626 : INFO : test_home : name is:san1
+2023-01-19 17:06:55,782 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:06:55,782 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:06:55,782 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:06:57,197 : INFO : test_home : name is:alwar
+2023-01-19 17:06:57,197 : INFO : test_home : name is:alwar
+2023-01-19 17:06:57,197 : INFO : test_home : name is:alwar
+2023-01-19 17:06:57,197 : INFO : test_home : name is:alwar
+2023-01-19 17:06:57,278 : INFO : test_home : mail :ymail.com
+2023-01-19 17:06:57,278 : INFO : test_home : mail :ymail.com
+2023-01-19 17:06:57,278 : INFO : test_home : mail :ymail.com
+2023-01-19 17:06:57,278 : INFO : test_home : mail :ymail.com
+2023-01-19 17:08:44,058 : INFO : test_e2e : click shop items
+2023-01-19 17:08:44,246 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 17:08:49,574 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 17:08:52,482 : INFO : test_e2e : final checkout
+2023-01-19 17:08:53,600 : INFO : test_e2e : entering country as IND
+2023-01-19 17:09:00,413 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 17:12:50,831 : INFO : test_home : name is:san1
+2023-01-19 17:12:50,887 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:12:52,171 : INFO : test_home : name is:alwar
+2023-01-19 17:12:52,171 : INFO : test_home : name is:alwar
+2023-01-19 17:12:52,212 : INFO : test_home : mail :ymail.com
+2023-01-19 17:12:52,212 : INFO : test_home : mail :ymail.com
+2023-01-19 17:14:31,752 : INFO : test_home : name is:san1
+2023-01-19 17:14:31,752 : INFO : test_home : name is:san1
+2023-01-19 17:14:31,752 : INFO : test_home : name is:san1
+2023-01-19 17:14:32,033 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:14:32,033 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:14:32,033 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:14:33,467 : INFO : test_home : name is:alwar
+2023-01-19 17:14:33,467 : INFO : test_home : name is:alwar
+2023-01-19 17:14:33,467 : INFO : test_home : name is:alwar
+2023-01-19 17:14:33,467 : INFO : test_home : name is:alwar
+2023-01-19 17:14:33,511 : INFO : test_home : mail :ymail.com
+2023-01-19 17:14:33,511 : INFO : test_home : mail :ymail.com
+2023-01-19 17:14:33,511 : INFO : test_home : mail :ymail.com
+2023-01-19 17:14:33,511 : INFO : test_home : mail :ymail.com
+2023-01-19 17:15:03,772 : INFO : test_e2e : click shop items
+2023-01-19 17:15:03,777 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 17:15:05,517 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 17:15:10,457 : INFO : test_e2e : final checkout
+2023-01-19 17:15:12,989 : INFO : test_e2e : entering country as IND
+2023-01-19 17:15:18,110 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 17:25:34,974 : INFO : test_home : name is:san1
+2023-01-19 17:25:35,114 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:25:35,681 : INFO : test_home : name is:alwar
+2023-01-19 17:25:35,681 : INFO : test_home : name is:alwar
+2023-01-19 17:25:35,795 : INFO : test_home : mail :ymail.com
+2023-01-19 17:25:35,795 : INFO : test_home : mail :ymail.com
+2023-01-19 17:25:44,467 : INFO : test_home : name is:san1
+2023-01-19 17:25:44,467 : INFO : test_home : name is:san1
+2023-01-19 17:25:44,467 : INFO : test_home : name is:san1
+2023-01-19 17:25:44,627 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:25:44,627 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:25:44,627 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:25:45,162 : INFO : test_home : name is:alwar
+2023-01-19 17:25:45,162 : INFO : test_home : name is:alwar
+2023-01-19 17:25:45,162 : INFO : test_home : name is:alwar
+2023-01-19 17:25:45,162 : INFO : test_home : name is:alwar
+2023-01-19 17:25:45,296 : INFO : test_home : mail :ymail.com
+2023-01-19 17:25:45,296 : INFO : test_home : mail :ymail.com
+2023-01-19 17:25:45,296 : INFO : test_home : mail :ymail.com
+2023-01-19 17:25:45,296 : INFO : test_home : mail :ymail.com
+2023-01-19 17:25:54,237 : INFO : test_e2e : click shop items
+2023-01-19 17:25:54,250 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 17:25:55,594 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 17:25:55,809 : INFO : test_e2e : final checkout
+2023-01-19 17:25:55,865 : INFO : test_e2e : entering country as IND
+2023-01-19 17:26:01,266 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 17:58:42,647 : INFO : test_home : name is:san1
+2023-01-19 17:58:43,318 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:58:46,519 : INFO : test_home : name is:alwar
+2023-01-19 17:58:46,519 : INFO : test_home : name is:alwar
+2023-01-19 17:58:46,567 : INFO : test_home : mail :ymail.com
+2023-01-19 17:58:46,567 : INFO : test_home : mail :ymail.com
+2023-01-19 17:59:07,067 : INFO : test_home : name is:san1
+2023-01-19 17:59:07,067 : INFO : test_home : name is:san1
+2023-01-19 17:59:07,067 : INFO : test_home : name is:san1
+2023-01-19 17:59:07,135 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:59:07,135 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:59:07,135 : INFO : test_home : mail :1gmail.com
+2023-01-19 17:59:08,267 : INFO : test_home : name is:alwar
+2023-01-19 17:59:08,267 : INFO : test_home : name is:alwar
+2023-01-19 17:59:08,267 : INFO : test_home : name is:alwar
+2023-01-19 17:59:08,267 : INFO : test_home : name is:alwar
+2023-01-19 17:59:08,331 : INFO : test_home : mail :ymail.com
+2023-01-19 17:59:08,331 : INFO : test_home : mail :ymail.com
+2023-01-19 17:59:08,331 : INFO : test_home : mail :ymail.com
+2023-01-19 17:59:08,331 : INFO : test_home : mail :ymail.com
+2023-01-19 17:59:30,525 : INFO : test_e2e : click shop items
+2023-01-19 17:59:30,535 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 17:59:34,574 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 17:59:37,732 : INFO : test_e2e : final checkout
+2023-01-19 17:59:39,556 : INFO : test_e2e : entering country as IND
+2023-01-19 17:59:45,637 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 18:42:09,214 : INFO : test_home : name is:san1
+2023-01-19 18:42:09,930 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:42:12,012 : INFO : test_home : name is:alwar
+2023-01-19 18:42:12,012 : INFO : test_home : name is:alwar
+2023-01-19 18:42:12,159 : INFO : test_home : mail :ymail.com
+2023-01-19 18:42:12,159 : INFO : test_home : mail :ymail.com
+2023-01-19 18:42:24,085 : INFO : test_home : name is:san1
+2023-01-19 18:42:24,085 : INFO : test_home : name is:san1
+2023-01-19 18:42:24,085 : INFO : test_home : name is:san1
+2023-01-19 18:42:24,306 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:42:24,306 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:42:24,306 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:42:24,922 : INFO : test_home : name is:alwar
+2023-01-19 18:42:24,922 : INFO : test_home : name is:alwar
+2023-01-19 18:42:24,922 : INFO : test_home : name is:alwar
+2023-01-19 18:42:24,922 : INFO : test_home : name is:alwar
+2023-01-19 18:42:25,072 : INFO : test_home : mail :ymail.com
+2023-01-19 18:42:25,072 : INFO : test_home : mail :ymail.com
+2023-01-19 18:42:25,072 : INFO : test_home : mail :ymail.com
+2023-01-19 18:42:25,072 : INFO : test_home : mail :ymail.com
+2023-01-19 18:42:32,157 : INFO : test_e2e : click shop items
+2023-01-19 18:42:32,170 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 18:42:33,269 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 18:42:33,486 : INFO : test_e2e : final checkout
+2023-01-19 18:42:33,584 : INFO : test_e2e : entering country as IND
+2023-01-19 18:42:38,793 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 18:45:19,631 : INFO : test_home : name is:san1
+2023-01-19 18:45:19,777 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:45:20,225 : INFO : test_home : name is:alwar
+2023-01-19 18:45:20,225 : INFO : test_home : name is:alwar
+2023-01-19 18:45:20,342 : INFO : test_home : mail :ymail.com
+2023-01-19 18:45:20,342 : INFO : test_home : mail :ymail.com
+2023-01-19 18:45:33,042 : INFO : test_home : name is:san1
+2023-01-19 18:45:33,042 : INFO : test_home : name is:san1
+2023-01-19 18:45:33,042 : INFO : test_home : name is:san1
+2023-01-19 18:45:33,197 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:45:33,197 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:45:33,197 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:45:33,618 : INFO : test_home : name is:alwar
+2023-01-19 18:45:33,618 : INFO : test_home : name is:alwar
+2023-01-19 18:45:33,618 : INFO : test_home : name is:alwar
+2023-01-19 18:45:33,618 : INFO : test_home : name is:alwar
+2023-01-19 18:45:33,740 : INFO : test_home : mail :ymail.com
+2023-01-19 18:45:33,740 : INFO : test_home : mail :ymail.com
+2023-01-19 18:45:33,740 : INFO : test_home : mail :ymail.com
+2023-01-19 18:45:33,740 : INFO : test_home : mail :ymail.com
+2023-01-19 18:45:41,097 : INFO : test_e2e : click shop items
+2023-01-19 18:45:41,109 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 18:45:42,261 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 18:45:42,422 : INFO : test_e2e : final checkout
+2023-01-19 18:45:42,473 : INFO : test_e2e : entering country as IND
+2023-01-19 18:45:47,752 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 18:52:47,301 : INFO : test_home : name is:san1
+2023-01-19 18:52:47,457 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:52:48,013 : INFO : test_home : name is:alwar
+2023-01-19 18:52:48,013 : INFO : test_home : name is:alwar
+2023-01-19 18:52:48,140 : INFO : test_home : mail :ymail.com
+2023-01-19 18:52:48,140 : INFO : test_home : mail :ymail.com
+2023-01-19 18:52:55,962 : INFO : test_home : name is:san1
+2023-01-19 18:52:55,962 : INFO : test_home : name is:san1
+2023-01-19 18:52:55,962 : INFO : test_home : name is:san1
+2023-01-19 18:52:56,111 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:52:56,111 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:52:56,111 : INFO : test_home : mail :1gmail.com
+2023-01-19 18:52:56,792 : INFO : test_home : name is:alwar
+2023-01-19 18:52:56,792 : INFO : test_home : name is:alwar
+2023-01-19 18:52:56,792 : INFO : test_home : name is:alwar
+2023-01-19 18:52:56,792 : INFO : test_home : name is:alwar
+2023-01-19 18:52:56,919 : INFO : test_home : mail :ymail.com
+2023-01-19 18:52:56,919 : INFO : test_home : mail :ymail.com
+2023-01-19 18:52:56,919 : INFO : test_home : mail :ymail.com
+2023-01-19 18:52:56,919 : INFO : test_home : mail :ymail.com
+2023-01-19 18:53:19,008 : INFO : test_e2e : click shop items
+2023-01-19 18:53:19,028 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 18:53:19,159 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 18:53:19,296 : INFO : test_e2e : final checkout
+2023-01-19 18:53:19,380 : INFO : test_e2e : entering country as IND
+2023-01-19 18:53:24,712 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-19 19:14:46,537 : INFO : test_home : name is:san1
+2023-01-19 19:14:46,882 : INFO : test_home : mail :1gmail.com
+2023-01-19 19:14:47,761 : INFO : test_home : name is:alwar
+2023-01-19 19:14:47,761 : INFO : test_home : name is:alwar
+2023-01-19 19:14:47,892 : INFO : test_home : mail :ymail.com
+2023-01-19 19:14:47,892 : INFO : test_home : mail :ymail.com
+2023-01-19 19:14:58,417 : INFO : test_home : name is:san1
+2023-01-19 19:14:58,417 : INFO : test_home : name is:san1
+2023-01-19 19:14:58,417 : INFO : test_home : name is:san1
+2023-01-19 19:14:58,622 : INFO : test_home : mail :1gmail.com
+2023-01-19 19:14:58,622 : INFO : test_home : mail :1gmail.com
+2023-01-19 19:14:58,622 : INFO : test_home : mail :1gmail.com
+2023-01-19 19:14:59,243 : INFO : test_home : name is:alwar
+2023-01-19 19:14:59,243 : INFO : test_home : name is:alwar
+2023-01-19 19:14:59,243 : INFO : test_home : name is:alwar
+2023-01-19 19:14:59,243 : INFO : test_home : name is:alwar
+2023-01-19 19:14:59,383 : INFO : test_home : mail :ymail.com
+2023-01-19 19:14:59,383 : INFO : test_home : mail :ymail.com
+2023-01-19 19:14:59,383 : INFO : test_home : mail :ymail.com
+2023-01-19 19:14:59,383 : INFO : test_home : mail :ymail.com
+2023-01-19 19:15:09,051 : INFO : test_e2e : click shop items
+2023-01-19 19:15:09,065 : INFO : test_e2e : Cart_titles are get as products
+2023-01-19 19:15:09,183 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-19 19:15:09,329 : INFO : test_e2e : final checkout
+2023-01-19 19:15:09,393 : INFO : test_e2e : entering country as IND
+2023-01-19 19:15:14,600 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-30 15:34:33,704 : INFO : test_home : name is:san1
+2023-01-30 15:34:35,136 : INFO : test_home : mail :1gmail.com
+2023-01-30 15:34:38,691 : INFO : test_home : name is:alwar
+2023-01-30 15:34:38,691 : INFO : test_home : name is:alwar
+2023-01-30 15:34:38,818 : INFO : test_home : mail :ymail.com
+2023-01-30 15:34:38,818 : INFO : test_home : mail :ymail.com
+2023-01-30 15:36:05,043 : INFO : test_e2e : click shop items
+2023-01-30 15:36:05,055 : INFO : test_e2e : Cart_titles are get as products
+2023-01-30 15:36:05,162 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-30 15:36:05,869 : INFO : test_e2e : final checkout
+2023-01-30 15:36:05,931 : INFO : test_e2e : entering country as IND
+2023-01-30 15:36:11,717 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-31 11:35:08,546 : INFO : test_home : name is:san1
+2023-01-31 11:35:09,284 : INFO : test_home : mail :1gmail.com
+2023-01-31 11:35:10,618 : INFO : test_home : name is:alwar
+2023-01-31 11:35:10,618 : INFO : test_home : name is:alwar
+2023-01-31 11:35:10,773 : INFO : test_home : mail :ymail.com
+2023-01-31 11:35:10,773 : INFO : test_home : mail :ymail.com
+2023-01-31 11:35:22,829 : INFO : test_home : name is:san1
+2023-01-31 11:35:22,829 : INFO : test_home : name is:san1
+2023-01-31 11:35:22,829 : INFO : test_home : name is:san1
+2023-01-31 11:35:23,324 : INFO : test_home : mail :1gmail.com
+2023-01-31 11:35:23,324 : INFO : test_home : mail :1gmail.com
+2023-01-31 11:35:23,324 : INFO : test_home : mail :1gmail.com
+2023-01-31 11:35:23,761 : INFO : test_home : name is:alwar
+2023-01-31 11:35:23,761 : INFO : test_home : name is:alwar
+2023-01-31 11:35:23,761 : INFO : test_home : name is:alwar
+2023-01-31 11:35:23,761 : INFO : test_home : name is:alwar
+2023-01-31 11:35:23,900 : INFO : test_home : mail :ymail.com
+2023-01-31 11:35:23,900 : INFO : test_home : mail :ymail.com
+2023-01-31 11:35:23,900 : INFO : test_home : mail :ymail.com
+2023-01-31 11:35:23,900 : INFO : test_home : mail :ymail.com
+2023-01-31 11:35:31,811 : INFO : test_e2e : click shop items
+2023-01-31 11:35:31,823 : INFO : test_e2e : Cart_titles are get as products
+2023-01-31 11:35:31,982 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-01-31 11:35:32,162 : INFO : test_e2e : final checkout
+2023-01-31 11:35:32,226 : INFO : test_e2e : entering country as IND
+2023-01-31 11:35:37,461 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-08 12:53:21,971 : INFO : test_home : name is:san1
+2023-02-08 12:53:22,559 : INFO : test_home : mail :1gmail.com
+2023-02-08 12:53:23,088 : INFO : test_home : name is:alwar
+2023-02-08 12:53:23,088 : INFO : test_home : name is:alwar
+2023-02-08 12:53:23,212 : INFO : test_home : mail :ymail.com
+2023-02-08 12:53:23,212 : INFO : test_home : mail :ymail.com
+2023-02-08 12:53:33,494 : INFO : test_e2e : click shop items
+2023-02-08 12:53:33,512 : INFO : test_e2e : Cart_titles are get as products
+2023-02-08 12:53:33,632 : INFO : test_e2e : products is ready to c/o:Blackberry
+2023-02-08 12:53:33,917 : INFO : test_e2e : final checkout
+2023-02-08 12:53:34,797 : INFO : test_e2e : entering country as IND
+2023-02-08 12:53:40,352 : INFO : test_e2e : The message is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-10 14:38:08,531 : INFO : test_home : name is:san
+2023-02-10 14:38:09,166 : INFO : test_home : mail :gksr
